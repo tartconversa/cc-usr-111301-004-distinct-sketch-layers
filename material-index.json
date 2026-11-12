@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/leaf_devices.json",
+    "sha256": "671eb584d101a0ecc3583d5d38cb9e82bb47fcdfe77f753e1be75cd02665bdc6",
+    "size_bytes": 347
+  },
+  {
+    "path": "fixtures/sketches.json",
+    "sha256": "eaa0d9e8de6fcf4db0cc0b2cabaa809dc49c8b962123bbc500a267ba040da138",
+    "size_bytes": 673
+  }
+]

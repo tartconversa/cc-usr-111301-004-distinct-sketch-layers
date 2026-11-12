@@ -1,0 +1,27 @@
+{
+  "leaves": [
+    {
+      "partition": "day1",
+      "revision": 1,
+      "devices": [
+        "a",
+        "b"
+      ]
+    },
+    {
+      "partition": "day2",
+      "revision": 1,
+      "devices": [
+        "b",
+        "c"
+      ]
+    },
+    {
+      "partition": "day2",
+      "revision": 2,
+      "devices": [
+        "a"
+      ]
+    }
+  ]
+}

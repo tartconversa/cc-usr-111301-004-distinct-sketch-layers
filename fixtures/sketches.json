@@ -1,0 +1,49 @@
+{
+  "p": 4,
+  "allowed_p": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "hash": "sha256_utf8_first64_bigendian",
+  "index": "high_p_bits",
+  "rank": "leading_zero_count_of_remaining_bits_plus_one",
+  "alpha_m": {
+    "16": 0.673,
+    "32": 0.697,
+    "64": 0.709,
+    "other": "0.7213/(1+1.079/m)"
+  },
+  "small_range_threshold": "raw<=2.5*m and zero_registers>0",
+  "linear_counting": "m*ln(m/zero_registers)",
+  "parents": {
+    "week1": [
+      "day1",
+      "day2"
+    ]
+  },
+  "register_reference_only": [
+    [
+      1,
+      0,
+      3,
+      2
+    ],
+    [
+      0,
+      2,
+      1,
+      2
+    ]
+  ]
+}
